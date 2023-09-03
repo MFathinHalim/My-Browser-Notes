@@ -44,3 +44,6 @@ Silakan kontribusikan dan perbaiki proyek ini dengan cara:
 4. Lakukan perubahan yang diperlukan dan commit perubahan tersebut.
 5. Push branch Anda ke GitHub.
 6. Buat permintaan pull (Pull Request) ke repositori asli.
+
+##Ingin Mencoba?
+https://my-simple-notes.mfathinhalim.repl.co/
